@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Omosses on EQ Pack</title>
+    <link>http://localhost:1313/omoss/</link>
+    <description>Recent content in Omosses on EQ Pack</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>sv</language>
+    <copyright>© 2025 EQ Pack</copyright>
+    <atom:link href="http://localhost:1313/omoss/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Kvalité &amp; Miljö</title>
+      <link>http://localhost:1313/omoss/kvalitemiljo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/omoss/kvalitemiljo/</guid>
+      <description>griehehrgihrie hgiehrigh</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/omoss/kvalitemiljo/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

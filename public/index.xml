@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>EQ Pack</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on EQ Pack</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>sv</language>
+    <copyright>© 2025 EQ Pack</copyright>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Johan Tjernell</title>
+      <link>http://localhost:1313/kontakt/johan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/kontakt/johan/</guid>
+      <description>VD / Ägare&lt;br&gt;
+förnamn.efternamn@eqpack.se&lt;br&gt;
+Mob: +46 (0)76-9484949</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/kontakt/johan/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Kent Normelli</title>
+      <link>http://localhost:1313/kontakt/kent/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/kontakt/kent/</guid>
+      <description>Försäljning
+Dir: +46 (0)16-15 02 78 förnamn.efternamn@eqpack.se Mob: +46 (0)76-800 95 00</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/kontakt/kent/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Staffan Winberg</title>
+      <link>http://localhost:1313/kontakt/staffan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/kontakt/staffan/</guid>
+      <description>Försäljning Dir: +46 (0)16-15 02 76 förnamn.efternamn@eqpack.se Mob: +46 (0)70-558 35 89</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/kontakt/staffan/featured.jpg" />
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/omoss/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/omoss/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Johan Tjernell</title>
+      <link>http://localhost:1313/kontakt/:kontakpersoner/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/kontakt/:kontakpersoner/</guid>
+      <description>VD / Ägare&lt;br&gt;
+förnamn.efternamn@eqpack.se
+Mob: +46 (0)76-9484949</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/kontakt/:kontakpersoner/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Kanalplast</title>
+      <link>http://localhost:1313/produkter/kanalplast/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/produkter/kanalplast/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/produkter/kanalplast/featured.png" />
+    </item>
+    
+    <item>
+      <title>Kvalité &amp; Miljö</title>
+      <link>http://localhost:1313/kvalitemiljo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/kvalitemiljo/</guid>
+      <description>Läs om hur vi arbetar med kvalité &amp;amp; miljö ➔</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/kvalitemiljo/featured.svg" />
+    </item>
+    
+  </channel>
+</rss>
