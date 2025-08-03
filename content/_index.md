@@ -10,4 +10,4 @@ description: ""
 
 ## Proffs på produktanpassat emballage
 
-{{< article link="content/kvalitemiljo/" >}}
+{{< article link="/kvalitemiljo/" >}}
