@@ -23,12 +23,15 @@
 [[main]]
   identifier = "instagram"
   pre = "instagram"
+  name = "instagram"
   url = "https://www.instagram.com/eqpack_bus/"
   weight = 100
 
 [[main]]
   identifier = "linkedin"
   pre = "linkedin"
+  name = "Linkedin"
+
   url = "https://www.linkedin.com/company/eqpack-ab/?fbclid=IwY2xjawLVGLYBHf8tSyMTzrb14uXOY8MLOAu5QOP5RppsUWUBs6tKVejIhzuleEcexc5BzA"
   weight = 100
 
