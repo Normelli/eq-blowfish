@@ -4,7 +4,8 @@ showHero: false
 image: "/featured.jpg"
 weight: 10
 summary: "Försäljning \n
-Dir: +46 (0)16-15 02 78 förnamn.efternamn@eqpack.se
+Dir: +46 (0)16-15 02 78 \n
+förnamn.efternamn@eqpack.se\n
 Mob: +46 (0)76-800 95 00"
 
 ---
