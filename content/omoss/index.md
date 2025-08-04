@@ -1,5 +1,7 @@
+---
+showHero: false 
 
-
+---
 
 ## EQpack – en oberoende emballageleverantör
 Vi är specialiserade på förpackningslösningar för industrin. Målet är att vara en helhetsleverantör av emballage och förpackningar.
