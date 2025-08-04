@@ -35,4 +35,4 @@ Vår vision är att bli en av Nordens ledande leverantörer av emballagesystem. 
 
 ## Kvalité & Miljö
 
-{{< article link="/kvalitemiljo/" >}}
+{{< article link="/eq-blowfish/kvalitemiljo/" >}}

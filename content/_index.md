@@ -10,5 +10,5 @@ description: ""
 
 ## Proffs på produktanpassat emballage
 
-{{< article link="/kvalitemiljo/" >}}
+{{< article link="/eq-blowfish/kvalitemiljo/" >}}
 
