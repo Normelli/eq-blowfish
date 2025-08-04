@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>EQ Pack</title>
-    <link>http://localhost:1313/en/</link>
+    <link>http://localhost:1313/eq-blowfish/en/</link>
     <description>Recent content on EQ Pack</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 </copyright>
-    <atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/eq-blowfish/en/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title></title>
-      <link>http://localhost:1313/en/omoss/</link>
+      <link>http://localhost:1313/eq-blowfish/en/omoss/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/en/omoss/</guid>
+      <guid>http://localhost:1313/eq-blowfish/en/omoss/</guid>
       <description></description>
       
     </item>

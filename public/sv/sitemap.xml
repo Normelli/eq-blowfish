@@ -3,93 +3,93 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/kontakt/johan/</loc>
+    <loc>http://localhost:1313/eq-blowfish/kontakt/johan/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/kontakt/kent/</loc>
+    <loc>http://localhost:1313/eq-blowfish/kontakt/kent/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/kontakt/staffan/</loc>
+    <loc>http://localhost:1313/eq-blowfish/kontakt/staffan/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://localhost:1313/eq-blowfish/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/en/"
+      href="http://localhost:1313/eq-blowfish/en/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="sv"
-      href="http://localhost:1313/"
+      href="http://localhost:1313/eq-blowfish/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/omoss/</loc>
+    <loc>http://localhost:1313/eq-blowfish/omoss/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/en/omoss/"
+      href="http://localhost:1313/eq-blowfish/en/omoss/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="sv"
-      href="http://localhost:1313/omoss/"
+      href="http://localhost:1313/eq-blowfish/omoss/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/kontakt/:kontakpersoner/</loc>
+    <loc>http://localhost:1313/eq-blowfish/kontakt/:kontakpersoner/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/produkter/kanalplast/</loc>
+    <loc>http://localhost:1313/eq-blowfish/produkter/kanalplast/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/kontakt/</loc>
+    <loc>http://localhost:1313/eq-blowfish/kontakt/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/en/kontakt/"
+      href="http://localhost:1313/eq-blowfish/en/kontakt/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="sv"
-      href="http://localhost:1313/kontakt/"
+      href="http://localhost:1313/eq-blowfish/kontakt/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/kvalitemiljo/</loc>
+    <loc>http://localhost:1313/eq-blowfish/kvalitemiljo/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/produkter/</loc>
+    <loc>http://localhost:1313/eq-blowfish/produkter/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/en/produkter/"
+      href="http://localhost:1313/eq-blowfish/en/produkter/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="sv"
-      href="http://localhost:1313/produkter/"
+      href="http://localhost:1313/eq-blowfish/produkter/"
     />
   </url>
 </urlset>

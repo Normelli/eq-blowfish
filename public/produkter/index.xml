@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Produkter on EQpack</title>
-    <link>http://localhost:1313/produkter/</link>
+    <link>http://localhost:1313/eq-blowfish/produkter/</link>
     <description>Recent content in Produkter on EQpack</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>sv</language>
     <copyright>© 2025 EQpack</copyright>
-    <atom:link href="http://localhost:1313/produkter/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/eq-blowfish/produkter/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Kanalplast</title>
-      <link>http://localhost:1313/produkter/kanalplast/</link>
+      <link>http://localhost:1313/eq-blowfish/produkter/kanalplast/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/produkter/kanalplast/</guid>
+      <guid>http://localhost:1313/eq-blowfish/produkter/kanalplast/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/produkter/kanalplast/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/eq-blowfish/produkter/kanalplast/featured.png" />
     </item>
     
   </channel>

@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on EQpack</title>
-    <link>http://localhost:1313/series/</link>
+    <link>http://localhost:1313/eq-blowfish/series/</link>
     <description>Recent content in Series on EQpack</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>sv</language>
     <copyright>© 2025 EQpack</copyright>
-    <atom:link href="http://localhost:1313/series/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/eq-blowfish/series/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>

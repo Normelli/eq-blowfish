@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Produkter on EQ Pack</title>
-    <link>http://localhost:1313/en/produkter/</link>
+    <link>http://localhost:1313/eq-blowfish/en/produkter/</link>
     <description>Recent content in Produkter on EQ Pack</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 </copyright>
-    <atom:link href="http://localhost:1313/en/produkter/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/eq-blowfish/en/produkter/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>

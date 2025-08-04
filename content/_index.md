@@ -10,4 +10,5 @@ description: ""
 
 ## Proffs på produktanpassat emballage
 
-{{< article link="/produkter/kanalplast/" >}}
+{{< article link="/kvalitemiljo/" >}}
+
